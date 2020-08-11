@@ -14,7 +14,7 @@ These quickstarts show you how to use Firebase products from your Node.js server
 
 ## Testing Quickstarts
 
-The testing quickstarts previously available in this repository have
+The testing quickstarts previously available in this repository hav
 moved to a new location:
 
 https://github.com/firebase/quickstart-testing
